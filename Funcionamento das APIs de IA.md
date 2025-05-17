@@ -76,7 +76,7 @@ Para interagir com um modelo de IA via API, é necessário entender como estrutu
 
 ## A requisição será processada pela API e retornará:
 
-```json
+```
 {
   "choices": [
     {
