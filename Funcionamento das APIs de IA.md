@@ -48,6 +48,7 @@ Esse mapeamento pode variar de acordo com a complexidade do sistema. Dependendo 
 - Documentação da OpenAI: https://platform.openai.com/docs/overview
 - Boas práticas para Segurança de API Keys: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 
+> [!TIP]
 > Acesse o arquivo [Recomendações de API de IA](/CIn136/Recomendações%20de%20API%20de%20IA.md) para mais informações sobre provedores e recomendações gerais de API.
 
 # Como funcionam as requisições a API da IA?
